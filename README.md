@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Logon showcase gif" src="/assets/icon.png" width="100"/>
+</p>
+<h1 align="center">Ironchip</h1>
 # Authenticator with Ironchip location-based security technology
 
 Ironchip's Location-Based Authentication boosts your corporate environment security and control by adding a seamlessly integrated second authentication layer to your services. This authenticator is paired with a control panel specially designed for your corporate security administrators.
